@@ -1,10 +1,33 @@
- body{
+ }
+ body{ color: 212121;}
+ . logo{
+     text-emphasis: none;
+    }
+ logo { 
+     font-family: Raleway,sans-serif;
+font-style: normal;
+font-weight: bold;
+font-size: 26px;
+line-height: 1.19px;
+color: black;
+ }
+ .logo-accent{
+     color: var(background: #212121;);
+ }
+ .logo-white{
+     column-gap:#ffffff ;
+ }
 
-    style col feOffset }
-{
-{}
-{}
-`+++`````ç´´
+
+
+
+{/* цвет основного тексту #212121 /.
+/* цвет втор тексту #757575 /.
+
+/* білий # FFFFFF/.
+/* синій #2196F3/.
+
+
 
 
 
