@@ -1,64 +1,24 @@
-body{
-    font-family: "Roboto", sans-serif;
-    background-color: #ffffff;
-    color: rgba, 117, 117, 117,1 ;
-     }
-ul{
-    list-style: none;
+body {
+  font-family: "Roboto", sans-serif;
+  background-color: #ffffff;
+  color: rgba, 117, 117, 117, 1;
+}
+ul {
+  list-style: none;
 }
 /* Логотип*/
- .logo{
-     text-decoration: none;
-    font-family: Raleway,sans-serif;
-font-style: normal;
-font-weight: 700;
-font-size: 26px;
-line-height: 1.17px;
-color: 000000; 
-    }
- .logo-accen{ 
-    color: var(#2196F3);
- }
-.logo-logocc{
-    color: #ffffff;
+.logo {
+  text-decoration: none;
+  font-family: Raleway, sans-serif;
+  font-style: normal;
+  font-weight: 700;
+  font-size: 26px;
+  line-height: 1.17px;
+  color: #000;
 }
-
-
-
-{/* цвет основного тексту #212121 /.
-/* цвет втор тексту #757575 /.
-
-/* білий # FFFFFF/.
-/* синій #2196F3/.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-  
+.logo-accen {
+  color: var(#2196f3);
+}
+.logo-logocc {
+  color: #000;
+}
